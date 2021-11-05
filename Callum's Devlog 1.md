@@ -5,7 +5,7 @@
 * Gephi was the software I decided to learn for the Knowledge graph
 * Played around making dummy/test models to better understand the software. This went well 
 * Created a small network of with myself and my co-worker Christina's data in the graph. Still need to fix the size of the nodes to better represent an individuals contribution to the Archive and change the colour scheme but these will probably be left for later.
-
+* Uploaded my demo one I made of Star Wars Episode I & II to just get a feel of things and then what I have made so far.
 
 # Challenges Faced
 
