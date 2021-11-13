@@ -16,4 +16,4 @@
 * As for the Species what I want to do is also add the taxonomy as a node for them. This would involve adding the genus, family, order, class, phylum and Kingdom. I want to do this as it will group the data and tell us/the museum what we have been emphasizing in digitization. Are any certain group over/under represented.
 * This should be a easier/quicker to do than for the specific species as once one of the genus is in all I have to do is link the data/make the relationship. 
 
-See "Portfolio 4.0" for what the Graph looks like at this point
+[Here is what it looks like so far](https://github.com/callum-mcdermott/My-Digitial-History/blob/main/Portfolio%204.0.pdf)
