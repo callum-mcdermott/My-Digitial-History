@@ -17,3 +17,5 @@
 * This should be a easier/quicker to do than for the specific species as once one of the genus is in all I have to do is link the data/make the relationship. 
 
 [Here is what it looks like so far](https://github.com/callum-mcdermott/My-Digitial-History/blob/main/Portfolio%204.0.pdf)
+
+(I recommend looking at it with a software that can zoom greater than 500%)
